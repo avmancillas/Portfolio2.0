@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(13 110 253 / 25%);
+}
+
+.h2{
+    font-weight: 30px;
+}
+.contactIcons{
+    font-size: larger;
+}
+header{
+    padding: 0px;
+    margin:0;
+    line-height:1;
+}
+
+header h1{
+    background-color: rgb(245, 236, 225);
+    font-family:400 130px/0.8 'Cookie', Helvetica, sans-serif;
+    font-size: 75px;
+    text-align: center;
+    margin:0;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+.h3,h3{
+    text-align: center;
+
+}
+a{
+    color: black;
+    font-size: 20px;
+}
+
+.card.w-75{
+    background-color: rgb(245, 236, 225);
+    background-size: 90px;
+    font-weight: bolder;
+}
+
+.nutricalified:hover{
+    background-image: url("Assets/nutricalified.png");
+    background-size: 700px;
+
+}
+
+.plug:hover{
+    background-image: url("Assets/plug.png");
+    background-size: 700px;
+}
+
+.scratch:hover{
+        background-image: url("Assets/scratchgame.png");
+        background-size: 700px;
+}
+
+.password_generator:hover{
+    background-image: url("Assets/passwordgenerator.png");
+    background-size: 700px;
+}
